@@ -2,4 +2,4 @@ Hola, estamos editando un archivo con vi en la terminal
 
 Son las 6:44 PM en Colombia
 Feliz Tarde, llega la noche
-
+Ahora estamos editanto en nano
