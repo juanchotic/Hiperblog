@@ -1,3 +1,2 @@
-Estamos cambiando la historia de Fernando, le estamos enseñando a usar GIT
+Estamos cambiando la historia de Juan, le estamos enseñando a usar GIT
 Con PLATZI llego a todo y cumplo mis metas y objetivos
-Esta Linea fue cambiada en el 3 commit
